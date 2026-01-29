@@ -77,14 +77,16 @@ Follow these steps to set up and run the project locally.
     flutter run
     ```
 
-## 📸 Design
+## 📸 Screenshots
 
-![GET STARTED](assets/screenshots/get_started.png)
-![LOGIN](assets/screenshots/login.png)
-![REGISTER](assets/screenshots/register.png)
-![HOME BATNA](assets/screenshots/home_batna.png)
-![HOME SETIF](assets/screenshots/home_setif.png)
-![CHOOSE LOCATION](assets/screenshots/choose_location.png)
+<p floats="left">
+    <img src="assets/screenshots/get_started.png" alt="Get Started" width="250">
+    <img src="assets/screenshots/login.png" alt="Login" width="250">
+    <img src="assets/screenshots/register.png" alt="Register" width="250">
+    <img src="assets/screenshots/home_batna.png" alt="Home Batna" width="250">
+    <img src="assets/screenshots/home_setif.png" alt="Home Setif" width="250">
+    <img src="assets/screenshots/choose_location.png" alt="Choose Location" width="250">
+</p>
 
 ## 📄 License
 
