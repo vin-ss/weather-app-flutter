@@ -79,7 +79,12 @@ Follow these steps to set up and run the project locally.
 
 ## 📸 Design
 
-This project follows the design specifications from the [Figma Community Design](https://www.figma.com/design/xDUE0Y2MmYXrf3WZjo2HwC/Weather-App-Design--Community-?node-id=0-1&p=f&t=IvTy2UR3KOQ6exT5-0).
+![GET STARTED](assets/screenshots/get_started.png)
+![LOGIN](assets/screenshots/login.png)
+![REGISTER](assets/screenshots/register.png)
+![HOME BATNA](assets/screenshots/home_batna.png)
+![HOME SETIF](assets/screenshots/home_setif.png)
+![CHOOSE LOCATION](assets/screenshots/choose_location.png)
 
 ## 📄 License
 
